@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-line 4
-
-=======
 line 1
 line2
 line 3
->>>>>>> 947a736 (cherry 3)
+
