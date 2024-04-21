@@ -2,4 +2,5 @@ test
 test for merge
 test for merge
 test merge conflict
+stash
 
