@@ -1,4 +1,3 @@
 # krtraining
-## line 1
-## line remote
-## line remote2
+## demo for testing poll scm
+
