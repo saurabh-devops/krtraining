@@ -1,0 +1,4 @@
+ adding line for funC
+adding line for conflict in sourceC
+adding line 2
+adding line1
