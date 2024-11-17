@@ -2,3 +2,4 @@
 adding line for conflict in sourceC
 adding line 2
 adding line1
+adding line 3
